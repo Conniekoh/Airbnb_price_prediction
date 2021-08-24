@@ -13,7 +13,6 @@ ___
 Evaluated based on RMSE (root mean squared error) score. Lower the RMSE score, better the model.
 ___
 # Steps
-Evaluated based on RMSE (root mean squared error) score. Lower the RMSE score, better the model.
 1. Install library packages 
 2. Read a dataset of 41,739 observations and 97 variables
 3. Data Wrangling. Improved data quality by changing data structure and transforming variables, including missing data imputation, factor’s levels redefinition, training and testing dataset separation
