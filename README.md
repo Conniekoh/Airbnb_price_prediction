@@ -1,6 +1,6 @@
 # Airbnb Price Prediction
 
-![](https://media.heartlandtv.com/images/Airbnb+Bed.jpg)
+![](https://cdn.pixabay.com/photo/2018/05/14/12/18/airbnb-3399753_960_720.jpg)
 
 ___
 # Description
