@@ -11,7 +11,14 @@ To predict price of an Airbnb rental. Generate a prediction for each id in scori
 ___
 # Metric
 Evaluated based on RMSE (root mean squared error) score. Lower the RMSE score, better the model.
-
+___
+# Steps
+Evaluated based on RMSE (root mean squared error) score. Lower the RMSE score, better the model.
+1. Install library packages 
+2. Read a dataset of 41,739 observations and 97 variables
+3. Data Wrangling. Improved data quality by changing data structure and transforming variables, including missing data imputation, factor’s levels redefinition, training and testing dataset separation
+4. Select significant variables using Exploratory Data Analysis (EDA), feature selection including lasso and Principal Components Regression (PCA)
+5. Trained supervised machine learning models, including Linear Regression, Logistic Regression, Random Forest, Ranger, tuneRanger, and XGBoost; tuneRanger had the lowest RMSE score of 288.63
 
 :file_folder: [See my module](https://github.com/Conniekoh/Airbnb_price_prediction/blob/main/codility/conniekoh_kaggle_comp_submssion_final.v2.r)
 ___
