@@ -4,7 +4,7 @@
 
 ___
 # Description
-This project was completed by Connie Koh in partial fulfillment of APANPS5200: Applied Analytics Frameworksand Methods I, Spring 2021. This project is a listing of over 41,739 Airbnb rentals in New York City. The goal of this project is to predict the price for a rental using 97 variables on the property, host, and past reviews.
+This project was completed by Connie Koh in partial fulfillment of APANPS5200: Applied Analytics Frameworksand Methods I. This project is a listing of over 41,739 Airbnb rentals in New York City. The goal of this project is to predict the price for a rental using 97 variables on the property, host, and past reviews.
 ___
 # Goal
 To predict price of an Airbnb rental. Generate a prediction for each id in scoringData.csv.
